@@ -1,2 +1,2 @@
-TECHONOPARK  Шахов Станислав (awesome-sse), ML - 21
+TECHNOPARK  Шахов Станислав (awesome-sse), ML - 21
 ----------
