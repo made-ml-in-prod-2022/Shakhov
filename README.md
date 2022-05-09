@@ -1,2 +1,3 @@
-Шахов Станислав(awesome-sse), ML-21
+Шахов Станислав (awesome-sse)
+TECHONOPARK, ML-21
 ----------
