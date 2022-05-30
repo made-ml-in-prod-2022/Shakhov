@@ -39,4 +39,4 @@ jobs:
     - name: Test with pytest
       run: |
         cd online_inference
-        python -m pytest tests\test_server.py
+        python -m pytest tests/test_server.py
