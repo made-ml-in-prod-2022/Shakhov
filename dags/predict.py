@@ -16,7 +16,7 @@ MODEL_PATH = Variable.get("MODELPATH")
 TRANSFORMER_PATH = Variable.get("TRANSFORMERPATH")
 
 MOUNT_SOURCE = Mount(
-    source="C:/Users/stani/Documents/Programming/Technopark/ML_in_prodaction/HM3/ml_project/data",
+    source="C:/Users/stani/Documents/Programming/Technopark/ML_in_prodaction/HM3_in_made_rep/Shakhov/data",
     target="/data",
     type='bind'
     )
